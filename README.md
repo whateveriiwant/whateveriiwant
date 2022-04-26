@@ -3,8 +3,8 @@
 </div>
 
 <div align = center>
-  👨🏻‍🎓 Freshmen of HUFS Computer Engineering <br>
-  🧑🏻‍💻 NOOB Developer 
+  🧑🏻‍💻 Front-End Developer
+  👨🏻‍🎓 Freshman in HUFS (CS Major)
 </div>
 
 
