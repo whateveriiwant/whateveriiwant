@@ -1,4 +1,8 @@
 <div align = center>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SEUNGJUN&fontSize=90&descAlign=50&animation=fadeIn"/>
+</div>
+
+<div align = center>
   <h2> Hello! I'm SEUNGJUN! 😛 </h2>
 </div>
 
@@ -22,6 +26,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </div>
+
+
 
 
   
