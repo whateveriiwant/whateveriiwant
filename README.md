@@ -7,8 +7,8 @@
 </div>
 
 <div align = center>
-  🧑🏻‍💻 Front-End Developer<br>
-  👨🏻‍🎓 Freshman in HUFS (CS Major)
+  🧑🏻‍💻 Student Developer<br>
+  👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)
 </div>
 
 
