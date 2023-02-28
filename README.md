@@ -8,7 +8,8 @@
 
 <div align = center>
   🧑🏻‍💻 Student Developer<br>
-  👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)
+  👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)<br>
+  ⭐️ 2023 SK DEVOCEAN YOUNG 2nd
 </div>
 
 
