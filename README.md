@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </div>
 
+<div align = center>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhateveriiwant&count_bg=%230F193E&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+</div>
 
 
 
