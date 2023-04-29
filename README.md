@@ -31,7 +31,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhateveriiwant&count_bg=%230F193E&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whateveriiwant&show_icons=true&theme=dracula)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whateveriiwant&layout=compact&hide=kotlin,Classic%20ASP)](https://github.com/anuraghazra/github-readme-stats)<br>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whateveriiwant&layout=compact&hide=kotlin,Classic%20ASP)](https://github.com/anuraghazra/github-readme-stats)<br> -->
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsj9620&color=dark)](http://velog.io/@jsj9620/)
 </div>
 
