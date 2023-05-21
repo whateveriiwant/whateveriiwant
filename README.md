@@ -3,11 +3,11 @@
 </div>
 
 <div align = center>
-  <h2> Hello! I'm SEUNGJUN! 😛 </h2>
+  <h1> Hello! I'm SEUNGJUN! 😛 </h1>
 </div>
 
 <div align = center>
-  🧑🏻‍💻 Student Developer<br>
+  🧑🏻‍💻 Student Front-End Developer<br>
   👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)<br>
   ⭐️ 2023 SK DEVOCEAN YOUNG 2nd
 </div>
@@ -15,7 +15,7 @@
 
 
 <div align = center>
-  <h3> Tech Stack 🛠 </h3>
+  <h2> Tech Stack 🛠 </h2>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><br>
