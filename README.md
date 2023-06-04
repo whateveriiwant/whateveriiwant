@@ -2,34 +2,50 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEUNGJUN&fontSize=90&descAlign=50&animation=fadeIn"/>
 </div>
 
-<div align = center>
+<div align = left>
   <h1> Hello! I'm SEUNGJUN! 😛 </h1>
 </div>
 
-<div align = center>
-  🧑🏻‍💻 Student Front-End Developer<br>
+<div align = left>
   👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)<br>
   ⭐️ 2023 SK DEVOCEAN YOUNG 2nd
 </div>
 
 
 
-<div align = center>
+<div align = left>
   <h2> Tech Stack 🛠 </h2>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  
+  ```javascript
+  const seungjun = {
+      code: ["Javascript", "HTML", "CSS", "Python", "C++", "Dart"],
+      tech: {
+          frontEnd: {
+              framework: ["React", "Tailwind CSS", "Flutter"],
+              state: ["Recoil"],
+              style: ["Tailwind CSS", "styled-components"],
+          },
+          backEnd: {
+              platform: ["Firebase"],
+          },
+          etc: ["Git"],
+      },
+      interesting: ["FE performance optimazation", "refactoring", "UI/UX"],
+  };
+  ```
+  
 </div><br><br>
 
-<div align = center>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhateveriiwant&count_bg=%230F193E&title_bg=%23555555&icon=react.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a>
+<div align = left>
+  <h2> About me 🐶 </h2>
+  <a href="https://velog.io/@jsj9620">
+   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/seungjun-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whateveriiwant&show_icons=true&theme=dracula)
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whateveriiwant&layout=compact&hide=kotlin,Classic%20ASP)](https://github.com/anuraghazra/github-readme-stats)<br> -->
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsj9620&color=dark)](http://velog.io/@jsj9620/)
 </div>
 
