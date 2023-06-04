@@ -34,7 +34,7 @@
   };
   ```
   
-</div><br><br>
+</div>
 
 <div align = left>
   <h2> About me 🐶 </h2>
