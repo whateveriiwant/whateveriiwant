@@ -18,7 +18,7 @@
   
   ```javascript
   const seungjun = {
-      code: ["Javascript", "HTML5", "CSS3", "Python", "C++", "Dart"],
+      code: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Python", "C++", "Dart"],
       tech: {
           frontEnd: {
               framework: ["React", "Tailwind CSS", "Flutter"],
