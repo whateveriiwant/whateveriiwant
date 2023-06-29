@@ -21,7 +21,7 @@
       code: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Python", "C++", "Dart"],
       tech: {
           frontEnd: {
-              framework: ["React", "Tailwind CSS", "Flutter"],
+              framework: ["React", "Flutter"],
               state: ["Recoil"],
               style: ["Tailwind CSS", "styled-components"],
           },
