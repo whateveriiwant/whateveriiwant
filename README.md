@@ -14,7 +14,7 @@
 
 
 <div align = left>
-  <h2> Tech Stack 🛠 </h2>
+  <br />
   
   ```javascript
   const seungjun = {
@@ -44,9 +44,7 @@
   <a href="https://www.linkedin.com/in/seungjun-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
-  
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsj9620&color=dark)](http://velog.io/@jsj9620/)
+
 </div>
 
 
