@@ -18,7 +18,7 @@
   
   ```javascript
   const seungjun = {
-      code: ["TypeScript", "JavaScript", "HTML5", "CSS3", "Python", "C++", "Dart"],
+      code: ["TypeScript", "JavaScript", "Python", "C++", "Dart"],
       tech: {
           frontEnd: {
               framework: ["React", "Flutter"],
@@ -26,9 +26,10 @@
               style: ["Tailwind CSS", "styled-components"],
           },
           backEnd: {
+              framework: ["Node.js"],
               platform: ["Firebase"],
           },
-          etc: ["Git", "Amazon S3"],
+          etc: ["Git", "Amazon S3", "Figma", "Jira"],
       },
       interesting: ["FE performance optimazation", "refactoring", "UI/UX"],
   };
