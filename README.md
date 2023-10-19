@@ -40,15 +40,11 @@
 
 <div align = left>
   <h2> About me 🐶 </h2>
-  <a href="https://velog.io/@jsj9620">
-   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seungjun-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="https://mvp.microsoft.com/ko-KR/studentambassadors/profile/8e0fea51-671e-4495-9a9f-a1afef699206">
-    <img src="https://img.shields.io/badge/MLSA-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" />
-  </a>
+
+  [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jsj9620)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seungjun-dev/)
+  [![MLSA](https://img.shields.io/badge/MLSA-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)](https://mvp.microsoft.com/ko-KR/studentambassadors/profile/8e0fea51-671e-4495-9a9f-a1afef699206)
+  
 
 </div>
 
