@@ -8,7 +8,7 @@
 
 <div align = left>
   👨🏻‍🎓 Hankuk University of Foreign Studies (2022~) (Computer Engineering)<br>
-  ⭐️ 2023 SK DEVOCEAN YOUNG 2nd
+  ⭐️ 2023 SK DEVOCEAN YOUNG 2nd<br>
   👨🏻‍💻 Microsoft Learn Student Ambassadors
 </div>
 
