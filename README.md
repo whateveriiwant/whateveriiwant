@@ -46,6 +46,9 @@
   <a href="https://www.linkedin.com/in/seungjun-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
+  <a href="https://mvp.microsoft.com/ko-KR/studentambassadors/profile/8e0fea51-671e-4495-9a9f-a1afef699206">
+    <img src="https://img.shields.io/badge/MLSA-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white" />
+  </a>
 
 </div>
 
