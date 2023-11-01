@@ -7,7 +7,7 @@
 </div>
 
 <div align = left>
-  👨🏻‍🎓 Hankuk University of Foreign Studies (2022.03 - ) (Computer Engineering) <br />
+  👨🏻‍🎓 Computer Engineering @ Hankuk University of Foreign Studies (2022.03 - ) <br />
   ⭐️ DEVOCEAN YOUNG 2nd @ SK Telecom (2023.03 - 2023.11) <br />
   👨🏻‍💻 Learn Student Ambassadors @ Microsoft (2023.10 - )
 </div>
