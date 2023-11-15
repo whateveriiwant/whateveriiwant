@@ -5,9 +5,10 @@
 ## Hi there 👋🏻
 
 <div align = left>
-  👨🏻‍🎓 Computer Engineering @ Hankuk University of Foreign Studies (2022.03 - ) <br />
-  ⭐️ DEVOCEAN YOUNG 2nd @ SK Telecom (2023.03 - 2023.11) <br />
-  👨🏻‍💻 Learn Student Ambassadors @ Microsoft (2023.10 - )
+  👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (2022.03 - ) <br />
+  ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (2023.03 - 2023.11) <br />
+  🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (2023.07 - 2023.08)<br />
+  👨🏻‍💻 Learn Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (2023.10 - ) 
 </div>
 
 
