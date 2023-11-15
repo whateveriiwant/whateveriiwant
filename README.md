@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEUNGJUN&fontSize=90&descAlign=50&animation=fadeIn"/>
 </div> -->
 
-<div align = left>
-  <h1> Hello! I'm SEUNGJUN! 😛 </h1>
-</div>
+## Hi there 👋🏻
 
 <div align = left>
   👨🏻‍🎓 Computer Engineering @ Hankuk University of Foreign Studies (2022.03 - ) <br />
