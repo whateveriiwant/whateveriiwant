@@ -30,9 +30,9 @@
               framework: ["Node.js"],
               platform: ["Firebase"],
           },
-          etc: ["Git", "Amazon S3", "Figma", "Jira"],
+          etc: ["Git", "Microsoft Azure", "Amazon S3", "Figma", "Jira"],
       },
-      interesting: ["FE performance optimazation", "refactoring", "UI/UX", "Microsoft Azure"],
+      interesting: ["FE performance optimazation", "Refactoring", "UI/UX"],
   };
   ```
   
