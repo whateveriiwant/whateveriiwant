@@ -24,6 +24,7 @@
               framework: ["React", "Flutter"],
               state: ["Recoil"],
               style: ["Tailwind CSS", "styled-components"],
+              build: ["Vite"],
           },
           backEnd: {
               framework: ["Node.js"],
