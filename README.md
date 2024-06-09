@@ -9,7 +9,7 @@
   👨🏻‍💻 Learn Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (2023.10 - ) <br />
   ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (2023.03 - 2023.11) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (2023.07 - 2023.08)<br />
-  🪖 KATUSA Military Police @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">DES-Physical Security, HHC, USAG-Humphreys, IMCOM-P</a> (2023.12 - 2025.06)<br />
+  🪖 Korean Augmentation to the U.S. Army @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">DES-Physical Security, HHC, USAG-Humphreys, IMCOM-P</a> (2023.12 - 2025.06)<br />
 </div>
 
 
