@@ -33,7 +33,7 @@
           },
           etc: ["Git", "Microsoft Azure", "Amazon S3", "Figma", "Jira"],
       },
-      interesting: ["FE performance optimazation", "Refactoring", "UI/UX"],
+      interesting: ["FE performance optimization", "Refactoring", "UI/UX"],
   };
   ```
   
