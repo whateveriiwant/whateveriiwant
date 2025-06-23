@@ -10,6 +10,7 @@
   ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (2023.03 - 2023.11) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (2023.07 - 2023.08)<br />
   🪖 Senior Pass & ID Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">DES-Physical Security, HHC, USAG-Humphreys, IMCOM-P</a> (2023.12 - 2025.06)<br />
+  🥝 Basic Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Boostcamp Web & Mobile 10th class</a> (2025.06 - ) <br />
 </div>
 
 
