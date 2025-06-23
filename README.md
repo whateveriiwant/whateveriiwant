@@ -5,12 +5,12 @@
 ## Hi there 👋🏻
 
 <div align = left>
-  👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (2022.03 - ) <br />
-  👨🏻‍💻 Learn Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (2023.10 - ) <br />
-  ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (2023.03 - 2023.11) <br />
-  🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (2023.07 - 2023.08)<br />
-  🪖 Senior Pass & ID Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">DES-Physical Security, HHC, USAG-Humphreys, IMCOM-P</a> (2023.12 - 2025.06)<br />
-  🥝 Basic Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Boostcamp Web & Mobile 10th class</a> (2025.06 - ) <br />
+  👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (Mar 2022 - ) <br />
+  👨🏻‍💻 Learn Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (Oct 2023 - Feb 2025) <br />
+  ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (Mar 2023 - Nov 2023) <br />
+  🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
+  🪖 Senior Pass & ID Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">DES-Physical Security, HHC, USAG-Humphreys, IMCOM-P</a> (Dec 2023 - Jun 2025)<br />
+  🥝 Basic Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Boostcamp Web & Mobile 10th class</a> (Jun 2025 - ) <br />
 </div>
 
 
