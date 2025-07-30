@@ -28,6 +28,7 @@
               state: ["Recoil"],
               style: ["Tailwind CSS", "styled-components"],
               build: ["Vite"],
+              test: ["Jest", "Mocha"]
           },
           backEnd: {
               framework: ["Node.js"],
