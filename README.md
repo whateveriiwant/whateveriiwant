@@ -10,9 +10,9 @@
   ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (Mar 2023 - Nov 2023) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
   🪖 Senior Physical Security Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">USAG Humphreys DES Physical Security Division, IMCOM-P</a> (Dec 2023 - Jun 2025)<br />
-  🥝 Basic Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th class</a> (Jun 2025 - Jul 2025) <br />
-  🔥 Challenge Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th class</a> (Jul 2025 - Aug 2025) <br />
-  🎉 Membership Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th class</a> (Aug 2025 - Feb 2026) <br />
+  🥝 Basic Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th cohort</a> (Jun 2025 - Jul 2025) <br />
+  🔥 Challenge Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th cohort</a> (Jul 2025 - Aug 2025) <br />
+  🎉 Membership Course @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web ・ Mobile 10th cohort</a> (Aug 2025 - Feb 2026) <br />
 </div>
 
 
