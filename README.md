@@ -30,7 +30,7 @@
               test: ["Jest", "Mocha"]
           },
           backEnd: {
-              framework: ["Node.js"],
+              framework: ["Express"],
               platform: ["Firebase"],
           },
           etc: ["Git", "Microsoft Azure", "Amazon S3", "Figma", "Jira"],
