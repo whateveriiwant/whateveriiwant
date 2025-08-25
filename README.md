@@ -6,7 +6,7 @@
 
 <div align = left>
   👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (Mar 2022 - ) <br />
-  👨🏻‍💻 Learn Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (Oct 2023 - Feb 2025) <br />
+  👨🏻‍💻 Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (Oct 2023 - Feb 2025) <br />
   ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (Mar 2023 - Nov 2023) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
   🪖 Senior Physical Security Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">USAG Humphreys DES Physical Security Division, IMCOM-P</a> (Dec 2023 - Jun 2025)<br />
