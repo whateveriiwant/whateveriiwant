@@ -10,7 +10,7 @@
   ⭐️ DEVOCEAN YOUNG 2nd @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (Mar 2023 - Nov 2023) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
   🪖 Senior Physical Security Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">USAG Humphreys DES Physical Security Division, IMCOM-P</a> (Dec 2023 - Jun 2025)<br />
-  🎉 Membership @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web・Mobile 10th cohort</a> (Jun 2025 - Feb 2026) <br />
+  🎉 Trainee Membership @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web・Mobile 10th cohort</a> (Jun 2025 - Feb 2026) <br />
 </div>
 
 
@@ -26,14 +26,15 @@
               framework: ["React", "Flutter"],
               state: ["Recoil"],
               style: ["Tailwind CSS", "styled-components"],
-              build: ["Vite"],
-              test: ["Jest", "Mocha"]
+              build: ["Vite", "Webpack"],
+              test: ["Jest", "Mocha"],
           },
           backEnd: {
               framework: ["Express"],
-              platform: ["Firebase"],
+              platform: ["Firebase", "Ubuntu Server"],
+              database: ["MySQL"],
           },
-          etc: ["Git", "Microsoft Azure", "Amazon S3", "Figma", "Jira"],
+          etc: ["Git", "Microsoft Azure", "AWS S3", "Figma", "Jira", "Slack"],
       },
       interesting: ["FE performance optimization", "Refactoring", "UI/UX"],
   };
