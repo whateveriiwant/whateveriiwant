@@ -31,7 +31,7 @@
           },
           backEnd: {
               framework: ["Express"],
-              database: ["MySQL"],
+              database: ["MySQL", "SQLite"],
           },
           infrastructure: ["Firebase", "Ubuntu Server", "Nginx", "Microsoft Azure", "AWS S3"],
       },
