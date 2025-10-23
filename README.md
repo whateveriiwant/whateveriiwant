@@ -25,17 +25,17 @@
           frontEnd: {
               framework: ["React", "Flutter"],
               state: ["Recoil"],
-              style: ["Tailwind CSS", "styled-components", "SCSS"],
+              style: ["Tailwind CSS", "styled-components", "SCSS", "Emotion"],
               build: ["Vite", "Webpack"],
-              test: ["Jest", "Mocha"],
           },
           backEnd: {
-              framework: ["Express"],
+              framework: ["Express", "NestJS"],
               database: ["MySQL", "SQLite"],
+              test: ["Jest", "Mocha"],
           },
-          infrastructure: ["Firebase", "Ubuntu Server", "Nginx", "Microsoft Azure", "AWS S3"],
+          infrastructure: ["Firebase", "Ubuntu Server", "Nginx", "Microsoft Azure", "Docker"],
       },
-      etc: ["Git", "Figma", "Jira", "Slack", "Microsoft Power Platform"],
+      etc: ["Git", "Figma", "Jira", "Slack", "Microsoft Power Platform", "GitHub Actions"],
       interesting: ["FE performance optimization", "Refactoring", "UI/UX", "a11y"],
   };
   ```
