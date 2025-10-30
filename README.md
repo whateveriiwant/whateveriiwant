@@ -27,6 +27,7 @@
               state: ["Recoil"],
               style: ["Tailwind CSS", "styled-components", "SCSS", "Emotion"],
               build: ["Vite", "Webpack"],
+              test: ["Vitest", "RTL"],
           },
           backEnd: {
               framework: ["Express", "NestJS"],
