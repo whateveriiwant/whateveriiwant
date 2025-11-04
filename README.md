@@ -31,7 +31,7 @@
           },
           backEnd: {
               framework: ["Express", "NestJS"],
-              database: ["MySQL", "SQLite"],
+              database: ["MySQL", "SQLite", "TypeORM"],
               test: ["Jest", "Mocha"],
           },
           infrastructure: ["Firebase", "Ubuntu Server", "Nginx", "Microsoft Azure", "Docker", "Naver Cloud Platform"],
