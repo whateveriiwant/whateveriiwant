@@ -4,40 +4,43 @@
 
 ## 🐶 Hello
 
+> Undergraduate student at Hankuk University of Foreign Studies studying Computer Engineering.<br/>
+Passionate about building seamless and engaging web experiences as a Front-End Developer.
+
+<h3>🏃‍♂️‍➡️ Experiences</h3>
 <div align = left>
   👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (Mar 2022 - ) <br />
   👨🏻‍💻 Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (Oct 2023 - Feb 2025) <br />
-  ⭐️ DEVOCEAN YOUNG 2nd Cohort @ <a href="https://devocean.sk.com/" target="_blank">SK Telecom</a> (Mar 2023 - Nov 2023) <br />
+  ⭐️ Tech Influencer @ <a href="https://devocean.sk.com/" target="_blank">SK DEVOCEAN YOUNG 2nd Cohort</a> (Mar 2023 - Nov 2023) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
-  🪖 Senior Physical Security Admin @ <a href="https://home.army.mil/humphreys/about/garrison/DES/physical-security" target="_blank">USAG Humphreys DES Physical Security Division, IMCOM-P</a> (Dec 2023 - Jun 2025)<br />
-  🎉 Trainee Membership @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web・Mobile 10th Cohort</a> (Jun 2025 - Feb 2026) <br />
+  🎉 Web Full-stack Camper @ <a href="https://boostcamp.connect.or.kr/main_wm.html" target="_blank">NAVER Connect Foundation boostcamp Web・Mobile 10th Cohort</a> (Jun 2025 - Feb 2026) <br />
 </div>
 
 
-
+## 🛠️ Techs
 <div align = left>
   <br />
   
   ```javascript
   const seungjun = {
-      code: ["TypeScript", "JavaScript", "Python", "C++", "Dart", "Java"],
+      code: ['TypeScript', 'Python', 'C++', 'Dart', 'Java'],
       tech: {
           frontEnd: {
-              framework: ["React", "Flutter"],
-              state: ["Recoil"],
-              style: ["Tailwind CSS", "styled-components", "SCSS", "Emotion"],
-              build: ["Vite", "Webpack"],
-              test: ["Vitest", "RTL", "Storybook"],
+              framework: ['React', 'Flutter'],
+              state: ['Recoil'],
+              style: ['Tailwind CSS', 'Emotion', 'styled-components', 'SCSS'],
+              build: ['Vite', 'Webpack'],
+              test: ['Vitest', 'React Testing Library', 'Storybook'],
           },
           backEnd: {
-              framework: ["Express", "NestJS"],
-              database: ["MySQL", "SQLite", "TypeORM"],
-              test: ["Jest", "Mocha"],
+              framework: ['NestJS', 'Express'],
+              database: ['MySQL', 'SQLite', 'TypeORM'],
+              test: ['Jest', 'Mocha'],
           },
-          infrastructure: ["Firebase", "Ubuntu Server", "Nginx", "Microsoft Azure", "Docker", "Naver Cloud Platform"],
+          infrastructure: ['Microsoft Azure', 'Naver Cloud Platform', 'Ubuntu Server', 'Nginx', 'Docker', 'Firebase'],
       },
-      etc: ["Git", "Figma", "Jira", "Slack", "Microsoft Power Platform", "GitHub Actions"],
-      interesting: ["FE performance optimization", "Refactoring", "UI/UX", "a11y"],
+      etc: ['Git', 'GitHub Actions', 'Figma', 'Jira', 'Slack', 'Microsoft Power Platform'],
+      interesting: ['FE Performance Optimization', 'Refactoring', 'UI/UX', 'a11y'],
   };
   ```
   
@@ -53,7 +56,3 @@
 </div>
 
 <img src="https://media.tenor.com/LbXg2aCNIFIAAAAM/fine-this-is-fine.gif" width="300" />
-
-
-
-  
