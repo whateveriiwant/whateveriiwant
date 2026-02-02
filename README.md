@@ -22,7 +22,7 @@ Passionate about building seamless and engaging web experiences as a Frontend En
 
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=nestjs,mysql,prisma,typeorm,jest)](https://i.icoziv.workers.dev)
 
-[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=azure,caddyserver,docker,firebase,nginx,ubuntu,git)](https://i.icoziv.workers.dev)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=azure,firebase,ubuntu,docker,nginx,caddyserver,git)](https://i.icoziv.workers.dev)
 
 [![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=figma,jira,notion,slack)](https://i.icoziv.workers.dev)
 
