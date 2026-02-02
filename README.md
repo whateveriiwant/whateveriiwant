@@ -5,7 +5,7 @@
 ## 🐶 Hello
 
 > Undergraduate student at Hankuk University of Foreign Studies studying Computer Engineering.<br/>
-Passionate about building seamless and engaging web experiences as a Front-End Developer.
+Passionate about building seamless and engaging web experiences as a Frontend Engineer.
 
 <h3>🏃‍♂️‍➡️ Experiences</h3>
 <div align = left>
@@ -19,41 +19,15 @@ Passionate about building seamless and engaging web experiences as a Front-End D
 
 
 ## 🛠️ Techs
-<div align = left>
-  <br />
-  
-  ```javascript
-  const seungjun = {
-      code: ['TypeScript', 'Python', 'C++', 'Dart', 'Java'],
-      tech: {
-          frontEnd: {
-              framework: ['React', 'Flutter'],
-              state: ['Recoil'],
-              style: ['Tailwind CSS', 'Emotion', 'styled-components', 'SCSS'],
-              build: ['Vite', 'Webpack'],
-              test: ['Vitest', 'React Testing Library', 'Storybook'],
-          },
-          backEnd: {
-              framework: ['NestJS', 'Express'],
-              database: ['MySQL', 'SQLite', 'TypeORM'],
-              test: ['Jest', 'Mocha'],
-          },
-          infrastructure: ['Microsoft Azure', 'Naver Cloud Platform', 'Ubuntu Server', 'Nginx', 'Docker', 'Firebase'],
-      },
-      etc: ['Git', 'GitHub Actions', 'Figma', 'Jira', 'Slack', 'Microsoft Power Platform'],
-      interesting: ['FE Performance Optimization', 'Refactoring', 'UI/UX', 'a11y'],
-  };
-  ```
-  
-</div>
 
-<div align = left>
-  <h2> 🔗 Links </h2>
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=nextjs,reactjs,typescript,jotai,reactquery,storybook,vite,vitest,tailwindcss,emotion)](https://i.icoziv.workers.dev)
 
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jsj9620)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seungjun-dev/)
-  
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=nestjs,mysql,prisma,typeorm,jest)](https://i.icoziv.workers.dev)
 
-</div>
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=azure,caddyserver,docker,firebase,nginx,ubuntu,git)](https://i.icoziv.workers.dev)
 
-<img src="https://media.tenor.com/LbXg2aCNIFIAAAAM/fine-this-is-fine.gif" width="300" />
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=figma,jira,notion,slack)](https://i.icoziv.workers.dev)
+
+
+
+
