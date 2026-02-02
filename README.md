@@ -3,7 +3,7 @@
 > Undergraduate student at Hankuk University of Foreign Studies studying Computer Engineering.<br/>
 Passionate about building seamless and engaging web experiences as a Frontend Engineer. <br/>
 
->Frontend Engineer at [boostus](boostus.site), a community platform unifying growth experiences in boostcamp; currently enhancing UI/UX and system stability.
+>Frontend Engineer at [boostus](https://boostus.site), a community platform unifying growth experiences in boostcamp; currently enhancing UI/UX and system stability.
 
 <h2>🏃‍♂️‍➡️ Experiences</h3>
 <div>
