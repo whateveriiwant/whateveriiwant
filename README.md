@@ -1,15 +1,13 @@
-<!-- <div align = center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SEUNGJUN&fontSize=90&descAlign=50&animation=fadeIn"/>
-</div> -->
-
 ## 🐶 Hello
 
 > Undergraduate student at Hankuk University of Foreign Studies studying Computer Engineering.<br/>
-Passionate about building seamless and engaging web experiences as a Frontend Engineer.
+Passionate about building seamless and engaging web experiences as a Frontend Engineer. <br/>
 
-<h3>🏃‍♂️‍➡️ Experiences</h3>
-<div align = left>
-  👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (Mar 2022 - Feb 2028) <br />
+>Frontend Engineer at [boostus](boostus.site), a community platform unifying growth experiences in boostcamp; currently enhancing UI/UX and system stability.
+
+<h2>🏃‍♂️‍➡️ Experiences</h3>
+<div>
+  👨🏻‍🎓 Computer Engineering @ <a href="https://www.hufs.ac.kr/" target="_blank">Hankuk University of Foreign Studies</a> (Mar 2022 - Present) <br />
   👨🏻‍💻 Student Ambassadors @ <a href="https://mvp.microsoft.com/studentambassadors" target="_blank">Microsoft</a> (Oct 2023 - Feb 2025) <br />
   ⭐️ Tech Influencer @ <a href="https://devocean.sk.com/" target="_blank">SK DEVOCEAN YOUNG 2nd Cohort</a> (Mar 2023 - Nov 2023) <br />
   🔊 Ambassador @ <a href="https://www.codeit.kr/interviews/SW50ZXJ2aWV3OjY1NDA1Mzg3OTI3YjlmOTExZGExMzg5NA==" target="_blank">Codeit</a> (Jul 2023 - Aug 2023)<br />
