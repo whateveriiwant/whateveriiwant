@@ -1,5 +1,5 @@
 ## 🐶 Hello
-Frontend engineer, computer engineering student from Republic of Korea
+Product Engineer, computer engineering student from Republic of Korea
 
 ## 📝 Featured Posts
 
